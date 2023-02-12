@@ -1,0 +1,153 @@
+*{
+    font-family: 'Segoe UI'!important;
+    font-weight: 300;
+}
+
+body{
+    background-color: ghostwhite;
+}
+/*-- index.html*/
+.bg-light {
+    background: none!important;
+}
+nav.navbar-expand-lg{
+    padding-top: 0.1rem;
+    padding-bottom: 0.2rem;
+}
+.bg-dark {
+    background-color: white!important; 
+}
+.navbar-toggler {
+    background-color:#1d212e!important;
+}
+a.nav-link {
+    color: #1d212e!important;
+}
+.nav-item a:hover {
+    color:rgb(233, 43, 75)!important;
+    font-size: 17px
+}
+.navbar-brand {
+    color: #1d212e!important;
+}
+.judul{
+    margin-left: 20px;
+    text-shadow: 10px;
+}
+h1.judul_algo.display-6{
+    margin-top: 0px;
+}
+.judul-awal {
+    border-radius: 12px 12px 12px 12px;
+    padding: 30px;
+    background-color: rgb(255, 87, 129);
+    color: white;
+    box-shadow: 10px 10px 5px rgb(194, 194, 194);
+}
+.isi-awal {
+    border-radius: 12px 12px 12px 12px;
+    padding: 5px;
+    background-color: rgb(233, 43, 75);
+    color: white;
+}
+.isi-awal p{
+    margin-top: 0px!important;
+}
+div.col-3.isi {
+    padding-top: 0px!important;
+}
+.row.baris-isi{
+    padding-top: 5px!important;
+}
+div.logo_usu{
+    text-align: left;
+    margin-top: 60px;
+    /* margin-left: -100px; */
+}
+.mulai {
+    margin-top: 60px;
+    margin-left: 5px;
+    border-color: white;
+    color: white;
+}
+button.mulai:hover {
+    transition: 0.5s!important;
+    color: rgb(233, 43, 75)!important;
+}
+/*-- tentang.html*/
+.tentang {
+    margin-top: 50px;
+}
+.list-group-item.active {
+    color: #212529;
+    background-color: #ffff;
+    border: 1px solid rgba(0, 0, 0, .125);
+}
+.list-group-item:hover{
+    background-color: #1d212e;
+}
+a.list-group-item:hover {
+    color: white;
+}
+.container-fluid .row{
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+/*-- pilih_algoritma.html*/
+h1.judul_algo{
+    margin-top: 40px;
+    text-align: center;
+}
+h5.judul_algo{
+    text-align: center;
+}
+
+div.container-sm{
+    padding: 0px 0px;
+}
+
+.row{
+    --bs-gutter-x: 1.9rem!important;
+    margin-right: 5px;
+}
+
+/* Card */
+.card{
+    border: 0px;
+    margin-top: 50px;
+}
+
+.keterangan{
+    background-color: ghostwhite;
+}
+
+img.confusionmatrix{
+    display: block;
+    margin:auto;
+}
+
+h1.angkaData {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.adolescent p{
+    margin-top: 40px;
+    margin-bottom: 0px!important;
+    text-align: center;
+}
+
+h1.angkaData{
+    text-align: center;
+    margin: 0px!important;
+}
+
+h1.atributTerpilih {
+    text-align: center;
+    margin: 0px!important;
+    font-size: 30px;
+}
+#list-item-1 {
+    margin-top: 0px!important;
+}
